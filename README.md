@@ -69,10 +69,7 @@
      <td align='center'>
         <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
     </td>
-</tr>
- 
-
-    
+</tr>    
 </table>
 </p>
 <p align="center">
