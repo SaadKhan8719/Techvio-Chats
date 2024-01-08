@@ -25,13 +25,13 @@
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
 
-📧 hammadn788@gmail.com
+📧 saadmuhammad8719@gmail.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
+🎨 Portfolio: https://github.com/SaadKhan8719
 
-💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-saad-khan-b86594288/
 
-📷 Instagram : https://www.instagram.com/hammad2980/
+📷 Instagram : 
  
 <h2>Tech Stack</h2>
 
@@ -76,8 +76,8 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/hammad-nadeem-6673981b5/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hammadn788@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-saad-khan-b86594288/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:saadmuhammad8719@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
